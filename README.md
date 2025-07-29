@@ -1,2 +1,2 @@
 # Amazon-project
-HTML and CSS
+HTML and CSS.
